@@ -11,3 +11,5 @@ openbazaar-desktop - https://github.com/OpenBazaar/openbazaar-desktop
 Balsamiq Mockups - https://balsamiq.com/
 
 Kitematic - https://kitematic.com/
+
+Laverna - https://laverna.cc/
