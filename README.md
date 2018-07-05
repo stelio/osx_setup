@@ -66,15 +66,16 @@ Turn OFF the “Guest User” account
 
 # 2. Software Install
 
+```
 osx-brew-install.sh
 brew-cask-installs.sh
 brew-installs.sh
 node-js-install.sh
 mongodb-install.sh
 mac-quick-look-plugins.sh
-
 zsh-and-omz.sh
 r-and-rstudio.sh
+```
 
 See Git.md
 See ManualInstalls.md
