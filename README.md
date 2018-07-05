@@ -78,8 +78,10 @@ r-and-rstudio.sh
 ```
 
 See Git.md
+
 See ManualInstalls.md
 
 # 3. Cleanup
-
+```
 brew cleanup
+```
