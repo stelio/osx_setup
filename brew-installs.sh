@@ -19,5 +19,6 @@ brew install	vim \
 		tree \
 		ansible \
 		heroku-toolbelt \
+		docker \
 		kubernetes-cli
 
