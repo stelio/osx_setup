@@ -20,5 +20,6 @@ brew install	vim \
 		ansible \
 		heroku-toolbelt \
 		docker \
-		kubernetes-cli
+		kubernetes-cli \
+		yarn
 
