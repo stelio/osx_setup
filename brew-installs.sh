@@ -21,5 +21,5 @@ brew install	vim \
 		heroku-toolbelt \
 		docker \
 		kubernetes-cli \
-		yarn
-
+		yarn \
+		homebrew/cask/android-platform-tools
