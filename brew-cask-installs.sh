@@ -15,6 +15,7 @@ brew cask install	atom \
 			iterm2 \
 			keepingyouawake \
 			keepassx \
+			mark-text \
 			openoffice \
 			osxfuse \
 			postman \
