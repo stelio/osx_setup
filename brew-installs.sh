@@ -22,4 +22,5 @@ brew install	vim \
 		docker \
 		kubernetes-cli \
 		yarn \
-		homebrew/cask/android-platform-tools
+		homebrew/cask/android-platform-tools \
+		kops
