@@ -23,4 +23,5 @@ brew install	vim \
 		kubernetes-cli \
 		yarn \
 		homebrew/cask/android-platform-tools \
-		kops
+		kops \
+		libpq
