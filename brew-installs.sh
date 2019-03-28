@@ -24,4 +24,5 @@ brew install	vim \
 		yarn \
 		homebrew/cask/android-platform-tools \
 		kops \
-		libpq
+		libpq \
+		python3
