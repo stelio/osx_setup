@@ -80,8 +80,11 @@ cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-inst
 ```
 
 ##  2.3 Install GUI tools
-``
+```
 brew-cask-installs.sh
+```
+
+```
 node-js-install.sh
 mongodb-install.sh
 mac-quick-look-plugins.sh
