@@ -84,8 +84,12 @@ cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-inst
 brew-cask-installs.sh
 ```
 
+## 2.4 Dev tools
+
 ```
-node-js-install.sh
+# node-js-install.sh
+cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/node-js-install.sh --output node-js-install.sh && chmod +x node-js-install.sh && ./node-js-install.sh
+
 mongodb-install.sh
 mac-quick-look-plugins.sh
 zsh-and-omz.sh
