@@ -2,8 +2,7 @@
 
 brew tap caskroom/cask
 
-brew cask install	atom \
-			appcleaner \
+brew install --cask	atom \
 			cyberduck \
 			docker \
 			dropbox \
