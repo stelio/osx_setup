@@ -2,6 +2,7 @@
 
 - Google Chrome
 - Firefox
+- iterm / warp.dev
 - Visual Studio Code
 - Atom
 - Source Tree
