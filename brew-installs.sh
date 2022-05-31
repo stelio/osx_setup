@@ -18,11 +18,11 @@ brew install	vim \
 		ack \
 		tree \
 		ansible \
-		heroku-toolbelt \
+		#heroku-toolbelt \
 		docker \
-		kubernetes-cli \
-		yarn \
-		homebrew/cask/android-platform-tools \
-		kops \
-		libpq \
-		python3
+		#yarn \
+		#homebrew/cask/android-platform-tools \
+		#kubernetes-cli \
+		#kops \
+		#libpq \
+		#python3
