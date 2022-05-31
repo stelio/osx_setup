@@ -1,4 +1,4 @@
-* Basics
+# Basics
 
 - Google Chrome
 - Firefox
