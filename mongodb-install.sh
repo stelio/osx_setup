@@ -15,3 +15,5 @@ brew tap mongodb/brew
 brew install mongodb-community@4.2
 echo 'export PATH="/usr/local/opt/mongodb-community@4.2/bin:$PATH"' >> ~/.zshrc
 brew services start mongodb-community@4.2
+
+echo 'export PATH="/opt/homebrew/Cellar/mongodb-community@4.2/4.2.19/bin/:$PATH"' >> ~/.zshrc
