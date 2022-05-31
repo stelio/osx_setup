@@ -75,7 +75,7 @@ cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/osx-insta
 ## 2.2 Install common cli tools & utilities
 ```
 # brew-installs.sh
-cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-installs.sh --output brew-installs.shh && chmod +x brew-installs.sh && ./brew-installs.sh
+cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-installs.sh --output brew-installs.sh && chmod +x brew-installs.sh && ./brew-installs.sh
 
 ```
 
