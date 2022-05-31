@@ -17,7 +17,8 @@ brew install	vim \
 		ack \
 		tree \
 		ansible \
-		docker
+		docker \
+		yarn #current: 1.22.19
 		#sshfs \ # sshfs has been disabled because it requires closed-source macFUSE!
 		#heroku-toolbelt \
 		#yarn \
