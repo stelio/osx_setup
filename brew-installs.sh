@@ -18,8 +18,8 @@ brew install	vim \
 		ack \
 		tree \
 		ansible \
+		docker
 		#heroku-toolbelt \
-		docker \
 		#yarn \
 		#homebrew/cask/android-platform-tools \
 		#kubernetes-cli \
