@@ -9,7 +9,7 @@ brew install	vim \
 		keychain \
 		rsync \
 		ssh-copy-id \
-		sshfs \
+		#sshfs \ # sshfs has been disabled because it requires closed-source macFUSE!
 		syncthing \
 		tmux \
 		wget \
