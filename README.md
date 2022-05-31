@@ -66,10 +66,19 @@ Turn OFF the “Guest User” account
 
 # 2. Software Install
 
+## 2.1 Install Brew
 ```
 osx-brew-install.sh
-brew-cask-installs.sh
+```
+
+## 2.2 Install common cli tools & utilities
+```
 brew-installs.sh
+```
+
+##  2.3 Install GUI tools
+``
+brew-cask-installs.sh
 node-js-install.sh
 mongodb-install.sh
 mac-quick-look-plugins.sh
