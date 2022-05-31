@@ -1,4 +1,4 @@
-* Basics *
+* Basics
 
 - Google Chrome
 - Firefox
@@ -14,7 +14,7 @@
 - Dropbox
 - Ferdi
 
-* Additional *
+# Additional
 
 - SQLElectron: One single DB client for any relational DB - https://sqlectron.github.io/
 - Deco-IDE: The React Native IDE - https://github.com/decosoftware/deco-ide
@@ -28,40 +28,26 @@
 - Charles: Web debug proxy - https://www.charlesproxy.com/
 - Cyberduck: Cyberduck is a libre server and cloud storage browser - https://cyberduck.io/
 - DataGrip: The Cross-Platform IDE for Databases & SQL - https://www.jetbrains.com/datagrip/
-
-HTTP Toolkit - https://httptoolkit.tech/
-
-Jdownloader2 - https://jdownloader.org/jdownloader2
-
-KeePassX - https://www.keepassx.org/
-
-KeepingYouAwake
-
-Microsoft Remote Desktop
-
-Postman
-
-TeamViewer
-
-The Unarchiver
-
-Transmission
-
-Tunnelblick
-
-unetbootin
+- HTTP Toolkit: Intercept, debug & mock HTTP with HTTP Toolkit - https://httptoolkit.tech/
+- Jdownloader2: download management tool  - https://jdownloader.org/jdownloader2
+- KeePassX: secure personal data management - https://www.keepassx.org/
+- KeepingYouAwake: Prevents your Mac from going to sleep
+- Microsoft Remote Desktop:
+- Postman
+- TeamViewer
+- The Unarchiver
+- Transmission
+- Tunnelblick
+- unetbootin
 
 * Markdown editors / Note taking *
 
-Zettlr: A Markdown Editor for the 21st century. - https://github.com/Zettlr/Zettlr
+- Zettlr: A Markdown Editor for the 21st century. - https://github.com/Zettlr/Zettlr
+- Laverna: Markdown note taking app focused on privacy. - https://laverna.cc/
+- MacDown - https://macdown.uranusjr.com/ 
+- MacText - https://marktext.app/
 
-Laverna: Markdown note taking app focused on privacy. - https://laverna.cc/
-
-MacDown - https://macdown.uranusjr.com/ 
-
-MacText - https://marktext.app/
-
-* MongoDB *
+# MongoDB
 
 - MongoDB Compass
 - dbKoda:  IDE for MongoDB - https://www.dbkoda.com/
