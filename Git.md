@@ -23,6 +23,11 @@ To push code to your GitHub repositories, we're going to use the recommended HTT
 $ git config --global credential.helper osxkeychain
 ```
 
+Check config
+```
+$ git config --list
+```
+
 ## SSH Config for GitHub
 The instructions below are referenced from the official documentation.
 
