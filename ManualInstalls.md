@@ -1,44 +1,33 @@
-SQLElectron - https://sqlectron.github.io/
+* Basics *
 
-Zettlr - https://github.com/Zettlr/Zettlr
+- Google Chrome
+- Firefox
+- Visual Studio Code
+- Atom
+- Source Tree
+- DataGrip
+- VLC
+- NordVPN IKE
+- OpenOffice
+- Docker
+- Evernote
+- Dropbox
+- Ferdi
 
-Deco-IDE - https://github.com/decosoftware/deco-ide
+* Additional *
 
-Manta - https://github.com/hql287/Manta
-
-openbazaar-desktop - https://github.com/OpenBazaar/openbazaar-desktop
-
-Balsamiq Mockups - https://balsamiq.com/
-
-Kitematic - https://kitematic.com/
-
-Laverna - https://laverna.cc/
-
-AppCleaner - https://freemacsoft.net/appcleaner/
-
-Atom - https://atom.io/
-
-BalenaEtcher - https://www.balena.io/etcher/
-
-Balsamiq Wireframes - https://balsamiq.cloud/
-
-calibre - E-book management - https://calibre-ebook.com/
-
-Charles (Web debug proxy) - https://www.charlesproxy.com/
-
-Cyberduck - https://cyberduck.io/
-
-DataGrip - https://www.jetbrains.com/datagrip/
-
-dbKoda - https://www.dbkoda.com/
-
-Docker
-
-Dropbox
-
-Evernote
-
-Ferdi
+- SQLElectron: One single DB client for any relational DB - https://sqlectron.github.io/
+- Deco-IDE: The React Native IDE - https://github.com/decosoftware/deco-ide
+- Manta: Flexible invoicing desktop app with beautiful & customizable templates - https://github.com/hql287/Manta
+- openbazaar-desktop: OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon) - https://github.com/OpenBazaar/openbazaar-desktop
+- Balsamiq Mockups: Rapid, Effective and Fun Wireframing Software - https://balsamiq.com/
+- Kitematic: Kitematic is a simple application for managing Docker containers - https://kitematic.com/
+- AppCleaner: Uninstall unwanted apps - https://freemacsoft.net/appcleaner/
+- BalenaEtcher: Flash OS images to SD cards & USB drives - https://www.balena.io/etcher/
+- calibre: E-book management - https://calibre-ebook.com/
+- Charles: Web debug proxy - https://www.charlesproxy.com/
+- Cyberduck: Cyberduck is a libre server and cloud storage browser - https://cyberduck.io/
+- DataGrip: The Cross-Platform IDE for Databases & SQL - https://www.jetbrains.com/datagrip/
 
 HTTP Toolkit - https://httptoolkit.tech/
 
@@ -48,23 +37,9 @@ KeePassX - https://www.keepassx.org/
 
 KeepingYouAwake
 
-MacDown - https://macdown.uranusjr.com/ 
-
-MacText - https://marktext.app/
-
 Microsoft Remote Desktop
 
-MongoDB Compass
-
-NordVPN IKE
-
-NoSQLBooster for MongoDB
-
-OpenOffice
-
 Postman
-
-Sourcetree
 
 TeamViewer
 
@@ -76,6 +51,18 @@ Tunnelblick
 
 unetbootin
 
-Visual Studio Code
+* Markdown editors / Note taking *
 
-VLC
+Zettlr: A Markdown Editor for the 21st century. - https://github.com/Zettlr/Zettlr
+
+Laverna: Markdown note taking app focused on privacy. - https://laverna.cc/
+
+MacDown - https://macdown.uranusjr.com/ 
+
+MacText - https://marktext.app/
+
+* MongoDB *
+
+- MongoDB Compass
+- dbKoda:  IDE for MongoDB - https://www.dbkoda.com/
+- NoSQLBooster for MongoDB
