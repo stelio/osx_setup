@@ -4,23 +4,23 @@ brew tap caskroom/cask
 
 brew cask install	atom \
 			appcleaner \
-			calibre \
-			cheatsheet \
+			#calibre \
+			#cheatsheet \
 			cyberduck \
 			docker \
 			dropbox \
 			evernote \
-			firefox \
 			google-chrome \
+			firefox \
 			iterm2 \
-			keepingyouawake \
-			keepassx \
-			mark-text \
+			#keepingyouawake \
+			#keepassx \
+			#mark-text \
 			openoffice \
-			osxfuse \
-			postman \
+			#osxfuse \
+			#postman \
 			sourcetree \
-			spotify \
+			#spotify \
 			virtualbox \
 			virtualbox-extension-pack \
 			vlc \
