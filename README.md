@@ -68,7 +68,7 @@ Turn OFF the “Guest User” account
 
 ## 2.1 Install Brew
 ```
-osx-brew-install.sh
+cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/osx-install-brew.sh --output osx-install-brew.sh && chmod +x osx-install-brew.sh && ./osx-install-brew.sh
 ```
 
 ## 2.2 Install common cli tools & utilities
