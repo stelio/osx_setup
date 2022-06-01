@@ -89,11 +89,11 @@ brew-cask-installs.sh
 ```
 # node-js-install.sh
 cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/node-js-install.sh --output node-js-install.sh && chmod +x node-js-install.sh && ./node-js-install.sh
+# mongodb-install.sh
+cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/mongodb-install.sh --output mongodb-install.sh && chmod +x mongodb-install.sh && ./mongodb-install.sh
 
-mongodb-install.sh
 mac-quick-look-plugins.sh
 zsh-and-omz.sh
-r-and-rstudio.sh
 ```
 
 See Git.md
