@@ -87,10 +87,15 @@ brew-cask-installs.sh
 ## 2.4 Dev tools
 
 ```
+
 # node-js-install.sh
 cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/node-js-install.sh --output node-js-install.sh && chmod +x node-js-install.sh && ./node-js-install.sh
+
 # mongodb-install.sh
 cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/mongodb-install.sh --output mongodb-install.sh && chmod +x mongodb-install.sh && ./mongodb-install.sh
+
+# aws-cli-install.sh
+cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/aws-cli-install.sh --output aws-cli-install.sh && chmod +x aws-cli-install.sh && ./aws-cli-install.sh
 
 mac-quick-look-plugins.sh
 zsh-and-omz.sh
