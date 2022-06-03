@@ -1,7 +1,7 @@
-curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o /tmp/awscli-bundle.zip
+curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
 
-unzip /tmp/awscli-bundle.zip -d /tmp/
+sudo installer -pkg AWSCLIV2.pkg -target /
 
-sudo /tmp/awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+which aws
 
 aws --version
