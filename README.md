@@ -79,7 +79,8 @@ cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-inst
 
 # For Rosetta
 arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-alias ibrew="arch -x86_64 /usr/local/bin/brew"
+echo 'alias ibrew="arch -x86_64 /usr/local/bin/brew"' >> ~/.zshrc
+source ~/.zshrc
 
 ```
 
