@@ -77,6 +77,10 @@ cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/osx-insta
 # brew-installs.sh
 cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-installs.sh --output brew-installs.sh && chmod +x brew-installs.sh && ./brew-installs.sh
 
+# For Rosetta
+arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+alias ibrew="arch -x86_64 /usr/local/bin/brew"
+
 ```
 
 ##  2.3 Install GUI tools
