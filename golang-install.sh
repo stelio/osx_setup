@@ -5,4 +5,6 @@ echo 'export GOROOT=/usr/local/opt/go/libexec' >> ~/.zshrc
 echo 'export PATH=$PATH:$GOPATH/bin' >> ~/.zshrc
 echo 'export PATH=$PATH:$GOROOT/bin' >> ~/.zshrc
 
+source ~/.zshrc
+
 mkdir -p $GOPATH $GOPATH/src $GOPATH/pkg $GOPATH/bin
