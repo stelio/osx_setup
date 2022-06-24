@@ -1,4 +1,11 @@
-Setup
+# Install
+As per https://devcenter.heroku.com/articles/heroku-cli
+
+```
+$ brew tap heroku/brew && brew install heroku
+```
+
+# Setup
 Login to your Heroku account using your email and password:
 
 ```
@@ -19,3 +26,7 @@ Keep the default file name and skip the passphrase by just hitting Enter both ti
 ```
 $ heroku keys:add
 ```
+
+# Adding existing git repo for deployment
+
+heroku git:remote -a example-app
