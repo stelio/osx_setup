@@ -1,4 +1,7 @@
-PYTHON_VERSION='3.7'
+# brew uninstall python
+# brew uninstall python@3.7
+
+PYTHON_VERSION='3.11'
 
 # x86 instructions
 #brew install python3
