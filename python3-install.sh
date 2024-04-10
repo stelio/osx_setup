@@ -25,6 +25,7 @@ echo 'alias pip=pip3' >> ~/.zshrc
 brew install pyenv-virtualenv
 # Add pyenv-virtualenv initializer to shell startup script
 # echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
+echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
 # Reload your profile
 source ~/.zshrc
