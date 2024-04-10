@@ -18,6 +18,13 @@ echo 'export PATH="/usr/local/opt/python@'$PYTHON_VERSION'/bin:$PATH"' >> ~/.zsh
 echo 'alias python=python3' >> ~/.zshrc
 echo 'alias pip=pip3' >> ~/.zshrc
 
-pip install virtualenv
+#pip install virtualenv
 
+# Thanks to https://jordanthomasg.medium.com/python-development-on-macos-with-pyenv-virtualenv-ec583b92934c
+# Install pyenv-virtualenv
+brew install pyenv-virtualenv
+# Add pyenv-virtualenv initializer to shell startup script
+# echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
+# Reload your profile
 source ~/.zshrc
