@@ -42,7 +42,8 @@
 - unetbootin
 - mysql shell https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install-macos-quick.html
 - Mysql Workbench https://dev.mysql.com/downloads/workbench/
-  - `ln -s /Applications/MySQLWorkbench.app/Contents/MacOS/mysqldump /usr/local/bin/mysqldump` 
+  - `ln -s /Applications/MySQLWorkbench.app/Contents/MacOS/mysqldump /usr/local/bin/mysqldump`
+  - `ln -s /Applications/MySQLWorkbench.app/Contents/MacOS/mysql /usr/local/bin/mysql`
 
     
 
