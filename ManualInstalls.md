@@ -40,6 +40,7 @@
 - Transmission
 - Tunnelblick
 - unetbootin
+- mysql shell https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install-macos-quick.html
 
 * Markdown editors / Note taking *
 
