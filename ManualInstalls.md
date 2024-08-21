@@ -44,6 +44,9 @@
 - Mysql Workbench https://dev.mysql.com/downloads/workbench/
   - `ln -s /Applications/MySQLWorkbench.app/Contents/MacOS/mysqldump /usr/local/bin/mysqldump`
   - `ln -s /Applications/MySQLWorkbench.app/Contents/MacOS/mysql /usr/local/bin/mysql`
+- Virtualization
+  - VirtualBox https://www.virtualbox.org/
+  - UTM https://mac.getutm.app/
 
     
 
