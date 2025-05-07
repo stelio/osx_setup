@@ -1,10 +1,11 @@
 # Basics
 
 - Google Chrome
+- Google Drive
 - Firefox
 - iterm / warp.dev
 - Visual Studio Code
-- Atom
+- Zed
 - Source Tree
 - DataGrip
 - VLC
@@ -12,10 +13,14 @@
 - OpenOffice
 - Docker
 - Evernote
+- Obsidian
 - Dropbox
 - Ferdi
 
 # Additional
+
+- Cyberduck: Cyberduck is a libre server and cloud storage browser - https://cyberduck.io/
+- DataGrip: The Cross-Platform IDE for Databases & SQL - https://www.jetbrains.com/datagrip/\
 
 - SQLElectron: One single DB client for any relational DB - https://sqlectron.github.io/
 - Deco-IDE: The React Native IDE - https://github.com/decosoftware/deco-ide
@@ -27,8 +32,7 @@
 - BalenaEtcher: Flash OS images to SD cards & USB drives - https://www.balena.io/etcher/
 - calibre: E-book management - https://calibre-ebook.com/
 - Charles: Web debug proxy - https://www.charlesproxy.com/
-- Cyberduck: Cyberduck is a libre server and cloud storage browser - https://cyberduck.io/
-- DataGrip: The Cross-Platform IDE for Databases & SQL - https://www.jetbrains.com/datagrip/
+- Handbreak: Video transcoder
 - HTTP Toolkit: Intercept, debug & mock HTTP with HTTP Toolkit - https://httptoolkit.tech/
 - Jdownloader2: download management tool  - https://jdownloader.org/jdownloader2
 - KeePassX: secure personal data management - https://www.keepassx.org/
@@ -40,6 +44,7 @@
 - Transmission
 - Tunnelblick
 - unetbootin
+- balenaEtcher
 - mysql shell https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install-macos-quick.html
 - Mysql Workbench https://dev.mysql.com/downloads/workbench/
   - `ln -s /Applications/MySQLWorkbench.app/Contents/MacOS/mysqldump /usr/local/bin/mysqldump`
@@ -47,6 +52,10 @@
 - Virtualization
   - VirtualBox https://www.virtualbox.org/
   - UTM https://mac.getutm.app/
+ 
+- Android File Transfer
+- OpenMTP
+- MacDroid
 
     
 
