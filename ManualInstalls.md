@@ -21,7 +21,7 @@
 
 - Cyberduck: Cyberduck is a libre server and cloud storage browser - https://cyberduck.io/
 - DataGrip: The Cross-Platform IDE for Databases & SQL - https://www.jetbrains.com/datagrip/\
-
+- Forklift: https://binarynights.com/
 - SQLElectron: One single DB client for any relational DB - https://sqlectron.github.io/
 - Deco-IDE: The React Native IDE - https://github.com/decosoftware/deco-ide
 - Manta: Flexible invoicing desktop app with beautiful & customizable templates - https://github.com/hql287/Manta
@@ -34,6 +34,7 @@
 - Charles: Web debug proxy - https://www.charlesproxy.com/
 - Handbreak: Video transcoder
 - HTTP Toolkit: Intercept, debug & mock HTTP with HTTP Toolkit - https://httptoolkit.tech/
+- HTTPie https://httpie.io/
 - Jdownloader2: download management tool  - https://jdownloader.org/jdownloader2
 - KeePassX: secure personal data management - https://www.keepassx.org/
 - KeepingYouAwake: Prevents your Mac from going to sleep
@@ -57,7 +58,10 @@
 - OpenMTP
 - MacDroid
 
-    
+- JSON Viewer https://jsonviewer.app/
+- KeepingYouAwake https://keepingyouawake.app/
+- OBS: https://obsproject.com/
+- Proxyman https://proxyman.com/
 
 * Markdown editors / Note taking *
 
