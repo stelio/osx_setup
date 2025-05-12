@@ -1,11 +1,12 @@
-# Basics
+# Core
 
 - Google Chrome
-- Google Drive
 - Firefox
-- iterm / warp.dev
 - Visual Studio Code
 - Zed
+- Google Drive
+- iterm
+- Warp (warp.dev)
 - Source Tree
 - DataGrip
 - VLC
