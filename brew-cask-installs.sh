@@ -2,27 +2,30 @@
 
 brew tap caskroom/cask
 
-brew install --cask	atom \
+# Core
+brew install --cask
+			google-chrome \
+      			firefox \
+			visual-studio-code \
+			zed \
 			cyberduck \
 			docker \
-			dropbox \
-			evernote \
-			google-chrome \
-			firefox \
 			iterm2 \
+   			warp \
 			openoffice \
 			sourcetree \
 			virtualbox \
 			virtualbox-extension-pack \
 			vlc \
-			visual-studio-code
-			
-			#calibre \
-			#cheatsheet \
-			#keepingyouawake \
-			#keepassx \
-			#mark-text \
-			#osxfuse \
-			#postman \
-			#spotify \
+   			obsidian
 
+# Additional
+# brew install --cask
+#			calibre \
+#			cheatsheet \
+#			keepingyouawake \
+#			keepassx \
+#			mark-text \
+#			osxfuse \
+#			postman \
+#			spotify
