@@ -3,9 +3,9 @@
 brew tap caskroom/cask
 
 # Core
-brew install --cask
-			google-chrome \
+brew install --cask	google-chrome \
       			firefox \
+	 		brave-browser \
 			visual-studio-code \
 			zed \
 			cyberduck \
