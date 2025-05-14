@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brew tap caskroom/cask
+brew tap homebrew/cask
 
 # Core
 brew install --cask	google-chrome \
