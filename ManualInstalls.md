@@ -1,26 +1,9 @@
 # Core
 
-- Google Chrome
-- Firefox
-- Visual Studio Code
-- Zed
-- Google Drive
-- iterm
-- Warp (warp.dev)
-- Source Tree
-- DataGrip
-- VLC
 - NordVPN IKE
-- OpenOffice
-- Docker
 - Evernote
-- Obsidian
 - Dropbox
 - Ferdi
-
-# Additional
-
-- Cyberduck: Cyberduck is a libre server and cloud storage browser - https://cyberduck.io/
 - DataGrip: The Cross-Platform IDE for Databases & SQL - https://www.jetbrains.com/datagrip/\
 - Forklift: https://binarynights.com/
 - SQLElectron: One single DB client for any relational DB - https://sqlectron.github.io/
