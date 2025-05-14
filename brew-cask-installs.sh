@@ -14,8 +14,10 @@ brew install --cask	google-chrome \
    			warp \
 			openoffice \
 			sourcetree \
-#			virtualbox \
-#			virtualbox-extension-pack \
+			virtualbox \
+			virtualbox-extension-pack \
+   			vmware-fusion \
+      			utm \
 			vlc \
    			obsidian
 
