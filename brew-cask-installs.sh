@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brew tap homebrew/cask
+# brew tap homebrew/cask
 
 # Core
 brew install --cask	google-chrome \
@@ -19,7 +19,8 @@ brew install --cask	google-chrome \
    			vmware-fusion \
       			utm \
 			vlc \
-   			obsidian
+   			obsidian \
+      			sourcetree
 
 # Additional
 # brew install --cask
