@@ -14,8 +14,8 @@ brew install --cask
    			warp \
 			openoffice \
 			sourcetree \
-			virtualbox \
-			virtualbox-extension-pack \
+#			virtualbox \
+#			virtualbox-extension-pack \
 			vlc \
    			obsidian
 
