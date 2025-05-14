@@ -67,7 +67,7 @@ Turn OFF the “Guest User” account
 # 2. Software Install
 
 ## 2.1 Install Brew
-```
+```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo >> ~/.zprofile
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
@@ -75,7 +75,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 ## 2.2 Install common cli tools & utilities
-```
+```sh
 # brew-installs.sh
 cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-installs.sh --output brew-installs.sh && chmod +x brew-installs.sh && ./brew-installs.sh
 
@@ -83,18 +83,17 @@ cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-inst
 arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 echo 'alias ibrew="arch -x86_64 /usr/local/bin/brew"' >> ~/.zshrc
 source ~/.zshrc
-
 ```
 
 ##  2.3 Install GUI tools
-```
-brew-cask-installs.sh
+```sh
+# brew-cask-installs.sh
+cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/brew-cask-installs.sh --output brew-cask-installs.sh && chmod +x brew-cask-installs.sh && ./brew-cask-installs.sh
 ```
 
 ## 2.4 Dev tools
 
-```
-
+```sh
 # node-js-install.sh
 cd ~ && curl https://raw.githubusercontent.com/stelio/osx_setup/master/node-js-install.sh --output node-js-install.sh && chmod +x node-js-install.sh && ./node-js-install.sh
 
@@ -113,6 +112,6 @@ See Git.md
 See ManualInstalls.md
 
 # 3. Cleanup
-```
+```sh
 brew cleanup
 ```
