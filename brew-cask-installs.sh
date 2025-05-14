@@ -15,7 +15,6 @@ brew install --cask	google-chrome \
 			openoffice \
 			sourcetree \
 			virtualbox \
-			virtualbox-extension-pack \
    			vmware-fusion \
       			utm \
 			vlc \
