@@ -9,4 +9,4 @@ aws --version
 # Install EB toolkit
 git clone https://github.com/aws/aws-elastic-beanstalk-cli-setup.git
 python ./aws-elastic-beanstalk-cli-setup/scripts/ebcli_installer.py
-echo 'export PATH="/Users/stelio/.ebcli-virtual-env/executables:$PATH"' >> ~/.zshenv && source ~/.zshenv
+echo 'export PATH="~/.ebcli-virtual-env/executables:$PATH"' >> ~/.zshenv && source ~/.zshenv
