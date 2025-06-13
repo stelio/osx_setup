@@ -57,12 +57,21 @@ Turn OFF the “Guest User” account
 	- Add an iCloud account and sync Calendar, Find my Mac, Contacts etc.
 
 ## User Defaults
-	- Enable repeating keys by pressing and holding down keys: defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false (and restart any app that you need to repeat keys in)
-	- Change the default folder for screenshots
-		- Open the terminal and create the folder where you would like to store your screenshots: mkdir -p ~/screenshots/
-		- Then run the following command: defaults write com.apple.screencapture location /path/to/screenshots/ && killall SystemUIServer
 
-##
+### Repeating Keys
+Enable repeating keys by pressing and holding down keys
+```sh
+defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
+```
+Now restart any app that you need to repeat keys in
+
+### Change the default folder for screenshots
+
+```sh
+mkdir -p ~/Screenshots/ # create the folder where you would like to store your screenshots
+defaults write com.apple.screencapture location ~/Desktop
+killall SystemUIServer
+```
 
 # 2. Software Install
 
