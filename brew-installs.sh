@@ -17,6 +17,7 @@ brew install	vim \
 		ack \
 		tree \
   		testdisk \ # testdisk and photorec tools
+    		fastfetch \
 		# ansible \
 		# docker \
 		#sshfs \ # sshfs has been disabled because it requires closed-source macFUSE!
