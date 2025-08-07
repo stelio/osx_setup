@@ -26,5 +26,7 @@ brew install	vim \
 		#homebrew/cask/android-platform-tools \
 		#kubernetes-cli \
 		#kops \
-		#libpq \
+		libpq \ # Postgres client tools
 		#python3
+
+brew link --force libpq
