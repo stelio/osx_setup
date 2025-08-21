@@ -8,6 +8,7 @@ brew install	vim \
 		jq \
 		keychain \
 		rsync \
+  		rclone \
 		ssh-copy-id \
 		syncthing \
 		tmux \
