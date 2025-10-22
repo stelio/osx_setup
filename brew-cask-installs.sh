@@ -3,8 +3,9 @@
 # brew tap homebrew/cask
 
 # Core
-brew install --cask	google-chrome \
-      			firefox \
+brew install --cask	\
+			google-chrome \
+      		firefox \
 	 		brave-browser \
 			visual-studio-code \
 			zed \
@@ -16,10 +17,11 @@ brew install --cask	google-chrome \
 			sourcetree \
 			virtualbox \
    			vmware-fusion \
-      			utm \
+      		utm \
 			vlc \
    			obsidian \
-      			sourcetree
+      		sourcetree \
+			nikitabobko/tap/aerospace
 
 # Additional
 # brew install --cask
