@@ -31,3 +31,7 @@ brew install	vim \
 		#python3
 
 brew link --force libpq
+
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+terraform --version
